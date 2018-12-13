@@ -18,3 +18,4 @@
 - [Hubot](https://hubot.github.com/) :heart:
 - [How GitHub uses GitHub to build GitHub](https://github.com/blog/1939-how-github-uses-github-to-document-github)
 - [Git Tips and Tricks (slidedeck)](https://speakerdeck.com/allthedoll/tips-and-tricks-gotta-git-them-all)
+- [@allthedoll's `.gitconfig`](https://gist.github.com/allthedoll/1a5bb4e6a6d7eb1b9bda29339eccc56d)
