@@ -1,5 +1,6 @@
 # @allthedoll's magical template stash
 ## (and pro tips)
+- [Learning Lab](https://lab.github.com/) - learn Git and GitHub, among other things
 - [Jenkins branch permissions template](https://gist.github.com/allthedoll/a82e5ba4dda3c170f2531c176feff04a)
 - [Jenkins cleanup](https://gist.github.com/allthedoll/b5b9a91cdad37d8e37e735cb78005b8a)
 - [Team README template](https://gist.github.com/allthedoll/76b36afa687b2e0a424a7851919830b8)
